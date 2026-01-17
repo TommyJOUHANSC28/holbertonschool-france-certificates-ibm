@@ -1,0 +1,2 @@
+#!/bash/bin
+Start-Process "certificate-oss.pdf"
